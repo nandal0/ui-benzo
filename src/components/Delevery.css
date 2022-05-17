@@ -1,0 +1,347 @@
+
+.container1{
+    /* padding: 110px 24px 0 280px; */
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 24px;
+    width: 999px;
+    padding-left: 120px;
+}
+.orderweights{
+    margin-bottom: 8px;
+}
+.para{
+    font-weight: bold;
+    line-height: 22px;
+    font-size: 20px;
+}
+.Tabselect{
+    display: flex;
+}
+
+.Tabselect_Group{
+    display: inline-flex;
+    border-radius: 8px;
+}
+
+.Tabselect_multiline{
+    flex-wrap: wrap;
+    margin: -4px;
+}
+.Tabselect_TabText1{
+    height: 50px;
+    width: 120px;
+    background: #fff;
+    border-radius: 15px;
+    margin-right: 8px;
+    padding: 0px 20px;
+    display: flex;
+    border: 1px solid #d5d4d4;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: border 0.2s linear;
+}
+.para1{
+    font-weight: normal;
+    font-size: 18px;
+   
+}
+
+.FormStyles_Points {
+    background: rgb(255, 251, 251);
+    width: 999px;
+    padding-left: 120px;
+}
+.OrderPoints_Decoration {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-bottom: 8px;
+    /* margin-left: -20px; */
+    position: absolute;
+    left: 23rem;
+
+
+}
+
+.IncityPoint_Row{
+    display: flex;
+    /* align-items: center; */
+    font: 1em sans-serif;
+    width: 776px;
+    height: 85px;
+    flex-direction: column;
+    padding-top: 8px;
+    padding-left: 18px;
+
+}
+.order-label,.order-label{
+    font-size: 16px;
+    /* font-weight: bold; */
+    margin-bottom: 8px;
+}
+.OrderPointAddress_Input{
+    width: 776px;
+    height: 50px;
+    border: 1px solid #d5d4d4;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.OrderInput_Root{
+    /* width:700px; */
+    /* height: 38px; */
+    border:none;
+    outline: none;
+    border-radius:12px;
+}
+.OrderInput_Roott{
+    width:700px;
+    height: 38px;
+    border:none;
+    outline: none;
+    border-radius:12px;
+}
+
+
+.IncityPointSecondRow{
+    padding-top: 8px;
+    padding-left: 8px;
+    display:flex;
+    flex-direction:column;
+}
+.OrderComponentWithError_Input{
+    width: 160px;
+    height: 40px;
+    display:flex;
+    flex-direction:row;
+    margin-bottom:8px;
+}
+.OrderPointPhone_Root{
+    display:flex;
+    align-items: center;
+    padding: 20px;
+    /* border: 1px solid #ccc; */
+    border-radius:12px;
+    /* border-radius:12px; */
+}
+.unique-order-form__point-phone-0{
+    width: 100px;
+    height: auto;
+    border:none;
+    outline:none;
+   
+
+}
+.OrderPointCourierTime{
+    position: absolute;
+    top:133%;
+    left:56%;
+    display: flex;
+}
+.OrderPointCourierTimee{
+    position: absolute;
+    top:134%;
+    left:52%;
+    display: flex;
+    flex-direction: column;
+    width: 410px;
+    height: 68px;
+}
+.OrderPointCourierTimeee{
+    position: absolute;
+    top:185%;
+    left:52%;
+    display: flex;
+    flex-direction: column;
+    width: 410px;
+    height: 68px;
+    
+}
+
+.details-depart{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.details-time{
+    /* height: 20px; */
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+/* height: 40px; */
+}
+
+.OrderTextarea_Root_3bG6h{
+    width: 736px;
+    height: 70px;
+    border: 1px solid #d5d4d4;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+.OrderAccordion_Root{
+    display: flex;
+    flex-direction: column;
+    width: 776px;
+    height:342px;
+}
+
+.IncityPointEcommerce_Row{
+    
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.OrderComponentWithError_Input{
+    
+    /* border: 1px solid rgb(190, 190, 190); */
+    border: 1px solid #ccc;
+    border-radius:12px;
+    margin-right: 17px;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    /* width:180px; */
+
+}
+.OrderInput_Root{
+    border: 1px solid #ccc;
+    border-radius:12px;
+    height:auto;
+    border:none;
+    outline:none;
+    width: 130px;
+
+
+}
+.OrderInput_Roott{
+    border: 1px solid #ccc;
+    border-radius:12px;
+    height:auto;
+    border:none;
+    outline:none;
+    /* width: 100px; */
+
+
+}
+
+.OrderComponentWithError_Input{
+    font-size: 16px;
+    /* font-weight: bold; */
+    width: 168px;
+    margin-bottom: 8px;
+}
+.OrderComponentWithError_Inputt{
+    width:340px;
+    height: 40px;
+    border: 1px solid rgb(190, 190, 190);
+    margin-right: 17px;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+
+
+.add-more{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    background-color: #0048ff;
+    margin-left: 10px;
+    color: #fff;
+}
+.add-more>span{
+    margin-right: 10px;
+}
+
+.sending-input{
+    padding-left: 144px ;
+    width: 976px;
+    height: 108px;
+    /* border: 1px solid #d5d4d4; */
+    border-radius: 5px;
+    /* padding-left: 10px; */
+    margin-bottom: 20px;
+}
+.sending-input-details{
+        border: 1px solid #d5d4d4;
+        height: 105px;
+        border-radius: 5px;
+        padding-left: 16px;
+        padding-top: 12px;
+
+}
+
+.sending-input-text{
+    width: 736px;
+    height: 38px;
+    border: 1px solid #d5d4d4;
+    border-radius: 5px;
+padding-left: 5px;
+}
+
+.sending-input-text>input{
+    width: 500px;
+    height: 35px;
+    border:none;
+    outline:none;
+    
+}
+
+.sending-input-data{ 
+    display: flex;
+    align-items: center;
+    color: #0048ff;
+    margin-top: 10px;
+}
+.sending-input-data>span{
+    margin-right: 10px;
+}
+
+
+.DeleveryTab3{
+    margin-left: 144px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 776px;
+    height: 240px;
+    background-color: #d6d6d6;
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+.containertab3{
+    padding-left: 144px;
+    padding-top: 60px;
+}
+.DeleveryTab3>span{
+    font-weight:500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    height: 30px;
+    width: 220px;
+    background: #f4f4f4;
+    margin-bottom: 10px;
+}
+.DeleveryTab3>p{
+    /* margin-right: 10px; */
+    font-size:22px;
+    font-weight:400;
+}
